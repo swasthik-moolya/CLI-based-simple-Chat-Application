@@ -1,5 +1,5 @@
-# oibsip_05
-<h3>CLI Based Chat Application</h3>
+# CLI Based Chat Application
+
 <p>💭 UNDERSTANDING THE CODE:</p>
 
 <p>
